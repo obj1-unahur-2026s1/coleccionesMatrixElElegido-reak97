@@ -1,5 +1,3 @@
-
-
 describe "group of tests " {
 
   test "test 01" {
